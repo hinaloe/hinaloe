@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a full ~~stuck~~ stack web engineer. Recently mostly using Nuxt.js and Laravel.
+
+:link: [blog](https://blog.hinaloe.net/) (:jp:)
+
 <!--
 **hinaloe/hinaloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
