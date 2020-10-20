@@ -8,6 +8,10 @@ I'm a full ~~stuck~~ stack web engineer. Recently mostly using Nuxt.js and Larav
 |:---|:---|
 |[![](https://wakatime.com/share/@hina/08a39432-b253-48a4-a3ae-11ddca53a3da.svg)](https://wakatime.com/@hina)||
 
+![](https://github-readme-stats-silk-two.vercel.app/api?username=hinaloe)
+![](https://github-readme-stats-silk-two.vercel.app/api/top-langs/?username=hinaloe&layout=compact)  
+![](https://github-readme-stats-silk-two.vercel.app/api/wakatime?username=hina)
+
 <!--
 **hinaloe/hinaloe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
